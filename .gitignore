@@ -1,0 +1,6 @@
+/.pytest_cache
+/.vscode
+/geckodriver.log
+/start.cmd
+/UserInfo.py
+/__pycache__
